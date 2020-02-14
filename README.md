@@ -10,7 +10,7 @@ Install the project's dependencies with:
 
 ## Scrape
 
-Fire up the bot:
+Fire up the scraper:
 
 `python3 rnb4u.py`
 
