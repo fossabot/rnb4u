@@ -1,0 +1,4 @@
+lxml
+urlopen
+requests
+beautifulsoup4
