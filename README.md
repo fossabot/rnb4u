@@ -1,4 +1,4 @@
-# RnB4u.in
+# RnB4u.in [![CodeFactor](https://www.codefactor.io/repository/github/0xnu/rnb4u/badge)](https://www.codefactor.io/repository/github/0xnu/rnb4u)
 
 A simple music scraper for new songs.
 
